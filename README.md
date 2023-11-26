@@ -38,6 +38,8 @@ To run this app locally, follow these steps:
 
 ## Usage
 
+### Hosted on versel [URL](https://generic-app-kappa.vercel.app/)
+
 ### Password Generator
 
 To generate a strong and secure password, follow these steps:
